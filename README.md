@@ -1,5 +1,4 @@
 # HireME-btn
-A Modern Button Assignment given from DotBatch @codehelp
 
 ### :santa: Developer : _Kaushal Kishore_
 ### :hammer_and_wrench: Tech Stack Used : 
