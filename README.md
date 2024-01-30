@@ -10,4 +10,4 @@
 ### **<a href="https://kaushalsonic.github.io/HireME-btn/" target="_blank">Live Link :rocket:</a>**
 
 ## Preview Image 👀
-<img width="236" alt="Rainbow-border-Preview" src="https://github.com/KaushalSonic/HireME-btn/assets/88739514/2aaa5da5-7a3b-4b8e-88e9-32922698df27">
+<img width="236" alt="HireMe-btn-Preview" src="https://github.com/KaushalSonic/HireME-btn/assets/88739514/2aaa5da5-7a3b-4b8e-88e9-32922698df27">
