@@ -6,6 +6,7 @@
 * CSS3
 ### :memo: *Description* : 
 * A mini project of set of interactive buttons.
+* It's Responsive too.
 ### **<a href="https://kaushalsonic.github.io/HireME-btn/" target="_blank">Live Link :rocket:</a>**
 
 ## Preview Image 👀
